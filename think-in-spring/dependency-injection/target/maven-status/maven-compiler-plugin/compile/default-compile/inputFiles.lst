@@ -1,0 +1,10 @@
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/XmlDependencySetterInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/AnnotationDependencySetterInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/ApiDependencyConstructorInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/AnnotationDependencyConstructorInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/UserHolder.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/AutowiringConstructorDependencyInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/XmlDependencyConstructorInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/AutowiringByNameDependencySetterInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/AnnotationDependencyFieldInjectionDemo.java
+/Users/gaenanwray/code_prj/spring_Demo/SpringLearning/think-in-spring/dependency-injection/src/main/java/org/learing/spring/ioc/dependency/injection/ApiDependencySetterInjectionDemo.java

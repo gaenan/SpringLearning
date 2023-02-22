@@ -1,0 +1,12 @@
+org/learing/spring/ioc/dependency/injection/ApiDependencyConstructorInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/AutowiringConstructorDependencyInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/XmlDependencySetterInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/AutowiringByNameDependencySetterInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/AnnotationDependencySetterInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/AnnotationDependencyConstructorInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/UserHolder.class
+org/learing/spring/ioc/dependency/injection/AnnotationDependencyMethodInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/XmlDependencyConstructorInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/ApiDependencySetterInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/AnnotationDependencyFieldInjectionDemo.class
+org/learing/spring/ioc/dependency/injection/AwareInterfaceDependencyInjectionDemo.class

@@ -1,0 +1,11 @@
+org/learing/spring/bean/definition/AnnotationBeanDefinitionDemo$Config.class
+org/learing/spring/bean/definition/SpecialBeanInstantiationDemo.class
+org/learing/spring/bean/definition/SingletonBeanRegistrationDemo.class
+org/learing/spring/bean/factory/UserFactory.class
+org/learing/spring/bean/definition/BeanAliasDemo.class
+org/learing/spring/bean/factory/DefaultUserFactory.class
+org/learing/spring/bean/factory/UserFactoryBean.class
+org/learing/spring/bean/definition/AnnotationBeanDefinitionDemo.class
+org/learing/spring/bean/definition/BeanInstantiationDemo.class
+org/learing/spring/bean/definition/BeanDefinitionCreationDemo.class
+org/learing/spring/bean/definition/BeanGCDemo.class
